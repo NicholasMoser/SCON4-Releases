@@ -1,2 +1,3 @@
-# SCON4-Releases
-Testing repository for SCON4 releases
+# SCON4 Releases
+
+Repository to hold SCON4 releases.
